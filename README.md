@@ -1,5 +1,5 @@
-# TreinaWeb Multi-stack
-Projeto desenvolvido durante a semana Multi-stack TreinaWeb
+<h1 align="center">TreinaWeb Multi-stack</h1>
+<p align="center">Projeto desenvolvido durante a semana Multi-stack TreinaWeb</p>
 
 ### Front-end com React
 -	Utilizando biblioteca Material UI
