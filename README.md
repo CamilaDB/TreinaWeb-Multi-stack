@@ -1,4 +1,4 @@
-# TreinaWeb-Multi-stack
+# TreinaWeb Multi-stack
 Projeto desenvolvido durante a semana Multi-stack TreinaWeb
 
 ### Front-End com React
